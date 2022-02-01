@@ -17,6 +17,8 @@
     "autoprefixer": "^9.8.6",
     "axios": "^0.21.1",
     "core-js": "^3.6.4",
+    "date-fns": "^2.28.0",
+    "graphql-tag": "^2.12.6",
     "npm-force-resolutions": "^0.0.10",
     "postcss": "^7.0.36",
     "tailwindcss": "^1.9.6",
